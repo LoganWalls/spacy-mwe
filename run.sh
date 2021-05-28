@@ -1,0 +1,1 @@
+docker build -t spacymre . && docker run --rm -it --gpus all spacymre
